@@ -292,7 +292,7 @@ function Layout() {
                             </li>
                             <li>
                                 <div className='border-4 border-gray-200 rounded-full overflow-hidden hover:border-indigo-100  hover:shadow-inner  transform hover:scale-110  transition ease-out duration-300'>
-                                    <img src='/person/1.jpg' alt='Recipe' className='w-8 h-8 sm:48   object-cover ' />
+                                    <Image src='/person/1.jpg' height={25} width={25} alt='Recipe' className='w-8 h-8 sm:48   object-cover ' />
                                 </div>
 
                             </li>
@@ -361,6 +361,23 @@ function Layout() {
 
 
                 </div>
+
+                <div className='text-base text-center mt-8'>
+                    <h1><span className='text-blue-500'>Tailwind</span> <span className='text-purple-700  font-bold'> Workcation UI </span>  from Tailwind Creator challenge , made by  </h1>
+
+                    <span className='text-purple-700'>Pedro Costa - </span>
+
+                    <span className='text-blue-500 font-semibold'>
+                        <Link href="https://www.linkedin.com/in/pedropombalviegas/" passHref={true}>
+                            Linkedin 🚀
+                        </Link>
+                    </span>
+
+
+
+
+                </div>
+
 
             </main>
 
