@@ -1,12 +1,9 @@
 
-## Projecto fruto do estudo de Tailwind e NextJs
+## Projecto fruto do estudo de NextJs e Tailwind
 
 #Link da Demo :
 
 https://workcation-ui-9jtng79bp-edroviegas.vercel.app
-
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
 ## Getting Started
